@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-cdn
 Version  : 4.0.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/fe/72/77100acae55cf1b20ad78d6650934d4df4a9a699e9d6e826d3ac82d294d5/azure-mgmt-cdn-4.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/fe/72/77100acae55cf1b20ad78d6650934d4df4a9a699e9d6e826d3ac82d294d5/azure-mgmt-cdn-4.0.0.zip
 Summary  : Microsoft Azure CDN Management Client Library for Python
